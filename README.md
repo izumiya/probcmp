@@ -1,3 +1,6 @@
 # Probabilistic Record Linkage
 
-https://www.youtube.com/watch?v=rGKEOMUtJfE を見てProbabilistic Record Linkageを知り、面白そうなのでGoで実装してみた。
+I learned about Probabilistic Record Linkage from https://www.youtube.com/watch?v=rGKEOMUtJfE, and since it looked interesting, I implemented it in Go.
+
+## References
+* https://github.com/oakmac/record-linking-talk
